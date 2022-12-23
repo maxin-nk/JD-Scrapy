@@ -1,2 +1,1 @@
-# Crawler-of-e-commerce
-Crawler of e-commerce
+# Project 1: Data crawler for Jingdong e-commerce platform
